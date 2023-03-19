@@ -2,7 +2,8 @@
 title: 'NEW WEBSITE 🥳🎉'
 date: 2023/03/19
 description: >-
-  Im proud to announce that we have moved from git hub to a new provider.
+  Im proud to announce that we have moved from Github to a new provider.
 ---
 
-I did this because of rumours that github stole stuff from users and i did not want that.
+I did this because of rumours that github stole stuff from users and I did not want that. I hope i made a good choice moving here and hope to get a custom domain
+
