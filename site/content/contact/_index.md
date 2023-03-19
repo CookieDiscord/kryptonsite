@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Discord"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Discord Server
