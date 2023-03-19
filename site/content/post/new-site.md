@@ -1,6 +1,6 @@
 ---
 title: 'NEW WEBSITE 🥳🎉'
-date: 2023/03/19
+date: 2023-03-19
 description: >-
   Im proud to announce that we have moved from Github to a new provider.
 ---
